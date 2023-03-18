@@ -7,11 +7,13 @@
 ⚡ 
 
 
-📫 You can find me on:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mirykonishi/)
-[Email](mailto:user@example.com)
+📫 You can find me on:  &nbsp; &nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/mirykonishi/)
+ &nbsp; &nbsp; &nbsp;
+[:email:](mailto:user@example.com)
 
-⚡ Fun fact: ...
+⚡ Fun fact: <br>
+Love to see videos about image editing! So interesting!
 
-
+:crystal_ball: Most used languages: <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miryk&layout=compact"/>
