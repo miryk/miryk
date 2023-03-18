@@ -1,16 +1,17 @@
-### Hi there 👋
+## Hello, Welcome! I'm Miry✨
+---
+### About me
+🌱 Full-Stack developer in MERN
+🔭 Learning AWS
+💬 Love to collaborate and solve problems. Always up for a chat! 
+⚡ 
 
-<!--
-**miryk/miryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📫 You can find me on:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mirykonishi/)
+[![Email](https://i.imgur.com/mFvGtnb.png)](mailto:user@example.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Fun fact: ...
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=miryk&layout=compact"/>
