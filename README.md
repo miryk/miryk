@@ -9,7 +9,7 @@
 
 📫 You can find me on:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mirykonishi/)
-[![Email](https://i.imgur.com/mFvGtnb.png)](mailto:user@example.com)
+[![Email](mailto:user@example.com)
 
 ⚡ Fun fact: ...
 
