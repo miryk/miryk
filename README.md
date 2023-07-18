@@ -9,8 +9,7 @@
 
 📫 You can find me on:  &nbsp; &nbsp;
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/mirykonishi/)
- &nbsp; &nbsp; &nbsp;
-[:email:](mailto:user@example.com)
+
 
 ⚡ Fun fact: <br>
 Love to see videos about image editing! So interesting!
